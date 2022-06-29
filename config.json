@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6283171382342@s.whatsapp.net"],
+  "ownerName": ["Dorax"],
+  "botName": "Joze - Bot",
+  "sessionName": "session",
+  "pathimg": "./media/Jojo2.jpg",
+  "gamewaktu": 90,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 10,
+	"user": 5
+  }
+}
